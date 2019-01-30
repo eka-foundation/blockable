@@ -31,3 +31,12 @@ Arguments behave in the same way as say python function arguments. An example of
 **DEGREE 5: code**
 
 Complete transparency and arbitrary configurability is provided for builders and advanced users through providing access to the underlying source codes of a block. Note that the codes reflect the functionality associated with the block.
+
+### block movement
+
+Each block has the additional properties of moving. Blocks can move in a 2-dimensional cordinates. Blocks can't rotate or turn. Blocks can be placed adjacent (to left or right) of other blocks, or on top of other blocks. Blocks can't overlay another block, and movement a block or a set of blocks can be restricted in any way, for example to prevent end-states that 
+
+### execution 
+
+Blocks are first arranged by the user, as well as configured, in the desired way much like a user would go through the process of completing a web form in a typical modern user interface. Once a desired end-state is reached, the resulting implicit computer codes are computed. 
+
