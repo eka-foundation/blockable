@@ -40,3 +40,6 @@ Each block has the additional properties of moving. Blocks can move in a 2-dimen
 
 Blocks are first arranged by the user, as well as configured, in the desired way much like a user would go through the process of completing a web form in a typical modern user interface. Once a desired end-state is reached, the resulting implicit computer codes are computed. 
 
+## credits
+
+Blockable is an [Eka foundation](http://eka.to) information interaction project. And is inspired by [SugarOS](https://sugarlabs.org/) and [Scratch](https://scratch.mit.edu/). Blockable leverage [Draggable](https://shopify.github.io/draggable/) as an UI geometric API.
