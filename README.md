@@ -21,6 +21,7 @@ The most simple degree of property is the color of the block. For example, in a 
 More properties can be added to each individual color through embedding glyphs on a single surface of the block (the top surface). Using the previous example, an icon may represent a specific kind of data transformation (e.g. normalization). 
 
 **DEGREE 3: attributes**
+
 Attributes allow introduction of more granular properties to blocks, and are presented on one or both sides of block. An example would be repeating a process represented by a block several times. 
 
 **DEGREE 4: arguments**
